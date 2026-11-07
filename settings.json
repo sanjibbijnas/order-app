@@ -1,0 +1,67 @@
+{
+  "shop": {
+    "name": "DAIRY MILK PARLOUR",
+    "address": "Nera Municipal Office, Dergaon",
+    "phone": "918638882545",
+    "currency": "₹"
+  },
+  "delivery": {
+    "homeOn": true,
+    "pickupOn": true,
+    "charge": 50,
+    "freeAbove": 0
+  },
+  "pin": "59651258",
+  "products": [
+    {
+      "id": "p1",
+      "cat": "দুধ",
+      "emo": "🥛",
+      "name": "গৰুৰ দুধ",
+      "price": 60,
+      "unit": "লিটাৰ",
+      "step": 0.5,
+      "on": true
+    },
+    {
+      "id": "p3",
+      "cat": "দুগ্ধজাত",
+      "emo": "🍶",
+      "name": "দৈ",
+      "price": 80,
+      "unit": "কেজি",
+      "step": 0.5,
+      "on": true
+    },
+    {
+      "id": "p4",
+      "cat": "দুগ্ধজাত",
+      "emo": "🧈",
+      "name": "ঘিউ",
+      "price": 700,
+      "unit": "কেজি",
+      "step": 0.25,
+      "on": true
+    },
+    {
+      "id": "p5",
+      "cat": "দুগ্ধজাত",
+      "emo": "🧀",
+      "name": "পনীৰ",
+      "price": 360,
+      "unit": "কেজি",
+      "step": 0.25,
+      "on": true
+    },
+    {
+      "id": "p7",
+      "cat": "মিঠাই",
+      "emo": "🍮",
+      "name": "ৰসগোল্লা",
+      "price": 20,
+      "unit": "পিচ",
+      "step": 1,
+      "on": true
+    }
+  ]
+}
